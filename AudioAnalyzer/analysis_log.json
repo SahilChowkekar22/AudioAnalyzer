@@ -1,0 +1,42 @@
+[
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.24044649302959442,
+        "identifier" : "music"
+      },
+      {
+        "confidence" : 0.13485035300254822,
+        "identifier" : "keyboard_musical"
+      },
+      {
+        "confidence" : 0.12216207385063171,
+        "identifier" : "fire_crackle"
+      }
+    ],
+    "id" : "49EDA13F-885F-49AE-B761-CCB8AEE68C44",
+    "source" : "live",
+    "timestamp" : 784491430.858778,
+    "transcription" : ""
+  },
+  {
+    "classifications" : [
+      {
+        "confidence" : 0.4363575279712677,
+        "identifier" : "speech"
+      },
+      {
+        "confidence" : 0.18023718893527985,
+        "identifier" : "rail_transport"
+      },
+      {
+        "confidence" : 0.16183564066886902,
+        "identifier" : "music"
+      }
+    ],
+    "id" : "482B61E0-849E-46D9-A9EC-B1AF4FC03382",
+    "source" : "live",
+    "timestamp" : 784491978.34147,
+    "transcription" : ""
+  }
+]
